@@ -1,11 +1,13 @@
-# api documentation for  [jslint (v0.10.3)](https://github.com/reid/node-jslint)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jslint.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jslint)
+# api documentation for  [jslint (v0.10.3)](https://github.com/reid/node-jslint)  [![npm package](https://img.shields.io/npm/v/npmdoc-jslint.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jslint) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jslint.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jslint)
 #### The JavaScript Code Quality Tool
 
 [![NPM](https://nodei.co/npm/jslint.png?downloads=true)](https://www.npmjs.com/package/jslint)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-jslint/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-jslint_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jslint/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-jslint/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-jslint_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-jslint/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-jslint/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-jslint/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-jslint/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 

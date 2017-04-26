@@ -1,8 +1,8 @@
 # npmdoc-jslint
 
-api documentation for  [jslint (v0.10.3)](https://github.com/reid/node-jslint)  [![npm package](https://img.shields.io/npm/v/npmdoc-jslint.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jslint) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jslint.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jslint)
+#### basic api documentation for  [jslint (v0.10.3)](https://github.com/reid/node-jslint)  [![npm package](https://img.shields.io/npm/v/npmdoc-jslint.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-jslint) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-jslint.svg)](https://travis-ci.org/npmdoc/node-npmdoc-jslint)
 
-The JavaScript Code Quality Tool
+#### The JavaScript Code Quality Tool
 
 [![NPM](https://nodei.co/npm/jslint.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/jslint)
 
